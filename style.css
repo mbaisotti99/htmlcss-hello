@@ -9,4 +9,17 @@ body{
 h1{
     font-size: 54px;
     font-family: 'Lucida Sans';
+    margin: 25px;
+}
+footer p{
+    color: white;
+    font-size: 16px;
+    font-family: Verdana;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 20px;
+    width: 60%;
+    background-color: rgb(106, 104, 104);
+    text-align: center;
 }
