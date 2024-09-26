@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 50px;
+    text-align: center;
+}
+h1{
+    font-size: 54px;
+    font-family: 'Lucida Sans';
+}
