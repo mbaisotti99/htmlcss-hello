@@ -1,17 +1,20 @@
-*{
+* {
     margin: 0;
     box-sizing: border-box;
 }
-body{
+
+body {
     margin: 50px;
     text-align: center;
 }
-h1{
+
+h1 {
     font-size: 54px;
     font-family: 'Lucida Sans';
     margin: 25px;
 }
-footer p{
+
+footer p {
     color: white;
     font-size: 16px;
     font-family: Verdana;
@@ -23,7 +26,8 @@ footer p{
     background-color: rgb(106, 104, 104);
     text-align: center;
 }
-#star{
+
+#star {
     text-align: center;
     margin: auto;
 }
